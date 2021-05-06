@@ -1,0 +1,8 @@
+1. create a db in phpmyadmin, import inventario.sql, after in includes folder find config.php and edit DB_NAME save file.
+2. in localhost write the name of the project like this localhost/"project_name"
+3. Login whit the credential admin as bot user and password
+4. add product go to productos after clic on agregar productos.
+5. create a sale go ventas after agregar venta in these windows in the field to search a producto write the product that you want sell, after search you need to fill 
+   all blank spaces and save.
+
+also you can create categories to group items or products 
